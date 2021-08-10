@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="wind_icon">wind icon</string>
+    <string name="humidity_icon">humidity icon</string>
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+
+
+    <!--  String concat  -->
+    <string name="percentage_concat">%d %%</string>
+    <string name="temperature_concat">%.0fº</string>
+    <string name="pressure_concat">%s mbar</string>
+    <string name="speed_concat">%s km/h</string>
+
+
+    <!-- Transition  -->
+    <string name="city_weather_transition_name">city_card_%1$s</string>
+    <string name="city_weather_transition">city_weather_details</string>
+
+    <!-- Date Format Pattern  -->
+    <string name="date_pattern">EEE, d MMM</string>
+    <string name="search">Search</string>
+    <string name="current_weather_icon">current weather icon</string>
+    <string name="location_icon">location icon</string>
+    <string name="show_error_permission_location_denied">Cannot show local weather without permissions</string>
+    <string name="error_getting_location">Cannot get current location</string>
+
+</resources>
